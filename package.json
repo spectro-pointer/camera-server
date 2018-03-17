@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "cmd": "^0.1.0",
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "node-cmd": "^3.0.0"
   }
 }
